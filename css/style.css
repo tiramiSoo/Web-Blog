@@ -1,0 +1,15 @@
+.footer a{
+    display: flex;
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+.test {
+    margin-top: 48px;
+}
+
+.abc p {
+    margin-left: 45%;
+}
