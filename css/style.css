@@ -13,3 +13,8 @@
 .abc p {
     margin-left: 45%;
 }
+
+p {
+    text-align: justify;
+}
+
